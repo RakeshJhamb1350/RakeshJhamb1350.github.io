@@ -1,16 +1,115 @@
-{
-  "applinks": {
-    "details": [
-      {
-        "appIDs": [
-          "TEAMID.com.example.DeepLinkDemo"
-        ],
-        "components": [
-          {
-            "/": "/demo/*"
-          }
-        ]
-      }
-    ]
-  }
+{  
+    "applinks": {  
+        "apps": [],  
+        "details": [  
+            {  
+                "appIDs": [  
+                    "7CPYQ86QR6.com.tigerspike.ndm.theaustralian"  
+                ],  
+                "components": [  
+                    { "/": "*/newsletters/*", "exclude": true },  
+                    { "/": "*/news-story/*" },  
+                    { "/": "*/image-gallery/*" },  
+                    { "/": "*/live-coverage/*" },  
+                    { "/": "*/audio/*" },  
+                    { "/": "*/app-route/*" },  
+                    { "/": "*/news/latest-news/*" },  
+                    { "/": "*/nation/*" },  
+                    { "/": "*/nation/defence/*" },  
+                    { "/": "*/nation/indigenous/*" },  
+                    { "/": "*/topics/newspoll/*" },  
+                    { "/": "*/nation/politics/*" },  
+                    { "/": "*/nation/politics/commentary/*" },  
+                    { "/": "*/world/*" },  
+                    { "/": "*/world/the-times/*" },  
+                    { "/": "*/business/the-wall-street-journal/*" },  
+                    { "/": "*/business/*" },  
+                    { "/": "*/business/dataroom/*" },  
+                    { "/": "*/business/wealth/*" },  
+                    { "/": "*/business/margin-call/*" },  
+                    { "/": "*/business/markets/*" },  
+                    { "/": "*/business/aviation/*" },  
+                    { "/": "*/business/legal-affairs/*" },  
+                    { "/": "*/business/economics/*" },  
+                    { "/": "*/business/cfo-journal/*" },  
+                    { "/": "*/business/tech-journal/*" },  
+                    { "/": "*/business/growth-agenda/*" },  
+                    { "/": "*/business/stockhead/*" },  
+                    { "/": "*/health/*" },  
+                    { "/": "*/health/diet/*" },  
+                    { "/": "*/health/medical/*" },  
+                    { "/": "*/health/wellbeing/*" },  
+                    { "/": "*/health/mental-health/*" },  
+                    { "/": "*/health/fitness/*" },  
+                    { "/": "*/health/caring/*" },  
+                    { "/": "*/health/relationships/*" },  
+                    { "/": "*/commentary/*" },  
+                    { "/": "*/commentary/cartoons/*" },  
+                    { "/": "*/commentary/editorials/*" },  
+                    { "/": "*/commentary/feeding-the-chooks/*" },  
+                    { "/": "*/commentary/letters/*" },
+                    { "/": "*/sport/*" },  
+                    { "/": "*/sport/afl/*" },  
+                    { "/": "*/sport/basketball/*" },  
+                    { "/": "*/sport/combat-sport/*" },  
+                    { "/": "*/sport/cricket/*" },  
+                    { "/": "*/sport/cycling/*" },  
+                    { "/": "*/sport/football/*" },  
+                    { "/": "*/sport/golf/*" },  
+                    { "/": "*/sport/horse-racing/*" },  
+                    { "/": "*/sport/motorsport/*" },  
+                    { "/": "*/sport/netball/*" },  
+                    { "/": "*/sport/nrl/*" },  
+                    { "/": "*/sport/olympics/*" },  
+                    { "/": "*/sport/rugby-union/*" },  
+                    { "/": "*/sport/tennis/*" },  
+                    { "/": "*/sport/the-times-sport/*" },  
+                    { "/": "*/sport/us-sports/*" },  
+                    { "/": "*/arts/*" },  
+                    { "/": "*/arts/books/*" },  
+                    { "/": "*/arts/film/*" },  
+                    { "/": "*/arts/music/*" },  
+                    { "/": "*/arts/review/*" },  
+                    { "/": "*/arts/stage/*" },  
+                    { "/": "*/arts/television/*" },  
+                    { "/": "*/arts/visual-arts/*" },  
+                    { "/": "*/inquirer/*" },  
+                    { "/": "*/business/property/*" },  
+                    { "/": "*/life/*" },  
+                    { "/": "*/life/food-drink/*" },  
+                    { "/": "*/life/gadgets/*" },  
+                    { "/": "*/life/motoring/*" },  
+                    { "/": "*/life/style/*" },  
+                    { "/": "*/life/wish/*" },  
+                    { "/": "*/weekend-australian-magazine/*" },  
+                    { "/": "*/weekend-australian-magazine/columnists/*" },  
+                    { "/": "*/travel/*" },  
+                    { "/": "*/travel/flight-reviews/*" },  
+                    { "/": "*/travel/australia/*" },  
+                    { "/": "*/travel/cruising/*" },  
+                    { "/": "*/education/*" },  
+                    { "/": "*/business/media/*" },  
+                    { "/": "*/business/technology/*" },  
+                    { "/": "*/science/*" },  
+                    { "/": "*/special-reports/*" },  
+                    { "/": "*/special-reports/avalon/*" },  
+                    { "/": "*/special-reports/women-in-education/*" },  
+                    { "/": "*/special-reports/shaping-australia/*" },  
+                    { "/": "*/special-reports/boarding-schools-guide/*" },  
+                    { "/": "*/special-reports/independent-schools-guide/*" },  
+                    { "/": "*/special-reports/research-magazine/*" },
+                    { "/": "*/special-reports/defence/*" },  
+                    { "/": "*/special-reports/defence-research/*" },  
+                    { "/": "*/video/*" },  
+                    { "/": "*/wealth/*" },  
+                    { "/": "*/culture/*" },  
+                    { "/": "/" },  
+                    { "/": "/mind-games" },  
+                    { "/": "/digitalprinteditions" },  
+                    { "/": "/podcasts" },  
+                    { "/": "*/podcast/*" }  
+                ]  
+            }  
+        ]  
+    }  
 }
