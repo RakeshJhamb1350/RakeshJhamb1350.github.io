@@ -4,7 +4,7 @@
         "details": [  
             {  
                 "appIDs": [  
-                    "7CPYQ86QR6.com.tigerspike.ndm.theaustralian"  
+                    "7CPYQ86QR6.com.tigerspike.ndm"  
                 ],  
                 "components": [  
                     { "/": "*/newsletters/*", "exclude": true },  
